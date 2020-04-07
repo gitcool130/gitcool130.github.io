@@ -51,6 +51,7 @@ CCTV-17农村农业,http://39.135.34.140:18890/000000001000/1000000005000056836/
 甘肃卫视,http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 
 港台新闻,#genre#
+新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
 TVB无线新闻台,vjms://121.14.222.75:8500:3502/live/cid=366#http://www.liveviptv.xyz/tv/tvb.php#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#vjms://23.237.33.155:8500:3502/live/cid=366
 TVBS新闻,vjms://58.215.133.185:8500:3502/live/cid=348#vjms://121.14.222.75:8500:3502/live/cid=348#vjms://23.237.33.155:8500:3502/live/cid=348
 TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502/live/cid=349#vjms://23.237.33.155:8500:3502/live/cid=349
@@ -65,7 +66,7 @@ TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502
 中天新闻,vjms://121.14.222.75:8500:3502/live/cid=407#http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv#vjms://58.215.133.185:8500:3502/live/cid=407#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#vjms://23.237.33.155:8500:3502/live/cid=407
 壹新闻,vjms://121.14.222.75:8500:3502/live/cid=445#p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#vjms://23.237.33.155:8500:3502/live/cid=445#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 寰宇新闻,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts#http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
-民视新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#vjms://23.237.33.155:8500:3502/live/cid=454
+民视新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#vjms://23.237.33.155:8500:3502/live/cid=454#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 东森财经,vjms://58.215.133.185:8500:3502/live/cid=456#http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv#vjms://121.14.222.75:8500:3502/live/cid=456#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts#vjms://23.237.33.155:8500:3502/live/cid=456
 寰宇财经台,p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
